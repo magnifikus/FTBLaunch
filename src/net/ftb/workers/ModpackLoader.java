@@ -24,7 +24,7 @@ import org.xml.sax.SAXException;
  */
 public class ModpackLoader extends Thread {
 	private static String MODPACKSFILE;
- 
+    
 	public ModpackLoader() { }
 
 	public void run() {
